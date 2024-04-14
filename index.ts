@@ -13,7 +13,7 @@ function main(fileLocation: string): void {
   const quotes: string[] = rawQuotes.split("\n");
   const quoteIndex: number = Math.floor(Math.random() * quotes.length);
 
-  console.log(quotes[quoteIndex]);
+  console.log(`%c${quotes[quoteIndex]}`, "color: green");
 }
 
 // This is pretty neat! Based on minimistjs

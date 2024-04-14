@@ -1,6 +1,6 @@
 # Terminal Inspiration!
 
-![Martial Artist in a cyberpunk style]("artist.png")
+![Martial Artist in a cyberpunk style](artist.png)
 
 This is a little fun project for me - it just prints out an inspirational quote. I've been using it to print it out when I open up a new zsh instance, but you can use it for whatever you want!
 
